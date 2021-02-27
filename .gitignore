@@ -1,6 +1,3 @@
-# Ignore everything
-/*
-
 !.gitignore
 !.gitpod.yml
 !.gitpod.Dockerfile
@@ -19,3 +16,5 @@
 !/.learn/assets/**
 !/.learn/exercises
 !/.learn/exercises/**
+node_modules
+.theia
